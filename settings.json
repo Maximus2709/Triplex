@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.shell.windows": "cmd.exe",
+    "terminal.integrated.shellArgs.windows": [
+        "/k", "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\Common7\\Tools\\VsDevCmd.bat"
+    ],
+    "editor.fontSize": 18,
+    "files.autoSave": "afterDelay",
+    "C_Cpp.errorSquiggles": "Enabled"
+}
